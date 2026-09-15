@@ -1,0 +1,6 @@
+{
+  "name": "Ang Mo Kio HDB Resale Prices",
+  "description": "Live typical 4-room HDB resale flat prices in Ang Mo Kio powered by official Singapore data.gov.sg records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
